@@ -1,6 +1,6 @@
 https://peaceful-bat.static.domains/entity-resolution-report
 
-highly relevant columns for proper sorting
+examples of highly relevant columns for proper sorting
 
 naics_2022_primary_code;
 ibc_insurance_code;
