@@ -1,0 +1,424 @@
+company_name,website,primary_phone,primary_email,main_country,main_city,employee_count,revenue,main_industry,total_score
+QCC,https://www.qccorp.com/,17088875400.0,info@qccorp.com,United States,Harwood Heights,150.0,49800000.0,Machinery Parts,40.5
+Polyplastics,https://www.polyplastics-global.com/en/,525619985026.0,personal_data@polyplastics.com,Germany,Raunheim,3000.0,18800000.0,Rubber & Plastics,40.5
+Green Serum,https://greenserum.com.my/,601135293379.0,enquiry@greenserum.com.my,Malaysia,Petaling Jaya,75.0,7791091.0,Chemical Products,40.5
+TeamTec,https://teamtec.no/,4737199800.0,logistics@teamtec.no,Norway,Tvedestrand,150.0,70574592.0,Industrial Machinery,40.5
+Polypure,https://polypure.com/,4721080740.0,info@polypure.no,Norway,Bærum,13.0,24046186.0,Chemical Products,40.5
+Polypure,https://polypure.com/,4721080740.0,info@polypure.no,Norway,Bærum,13.0,24046186.0,Chemical Products,40.5
+QCC,https://www.qccorp.com/,17088875400.0,info@qccorp.com,United States,Harwood Heights,150.0,49800000.0,Machinery Parts,40.5
+CWS Road Plate,http://cwsroadplate.com/,17136440375.0,sales@cwsroadplate.com,United States,Houston,75.0,18275868.0,Processed Metal,40.5
+Sabroe,https://www.sabroe.com/,4525507900.0,irpartssupportdk@jci.com,Denmark,Aarhus Municipality,150.0,55625836.0,Industrial Goods,39.5
+Sunyking,http://sunyking.com/,8675527061396.0,master@sunyking.com,China,Shenzhen,75.0,3517145.0,Electrical & Electronic Equipment,39.5
+SDMC,http://sdmcusa.com/,17152549835.0,info@sdmcati.com,United States,River Falls,75.0,22249298.0,Industrial Machinery,39.5
+PLP Lift Trucks Peterborough,https://plplifttruckspeterborough.co.uk/,441733332006.0,plplifttruck@btconnect.com,United Kingdom,Peterborough,35.0,12056944.0,Industrial Machinery,39.5
+Anritsu,https://www.anritsu.com/en-gb/,862150463066.0,legal-notices-americas@anritsu.com,Japan,Atsugi,3717.0,809000000.0,Electrical & Electronic Equipment,39.5
+SIAE MICROELETTRONICA,https://siaemic.com/,60377101070.0,joel.carrambas@siaemic.com,Italy,Cologno Monzese,1500.0,255000000.0,Electrical & Electronic Equipment,39.0
+Radio Frequency Systems GmbH,https://www.rfsworld.com/,495116762000.0,peter.raabe@rfsworld.com,Germany,Hanover,175.0,250000000.0,Electrical & Electronic Equipment,39.0
+Ampleon,https://www.ampleon.com/,31243552666.0,ethicsteam@ampleon.com,Netherlands,Nijmegen,1500.0,613703936.0,Electrical & Electronic Equipment,39.0
+HUBER SUHNER Sales Partners,http://www.hubersuhner.com/,85228666600.0,info@hubersuhner.com,Switzerland,Herisau,4500.0,1000000000.0,Electrical & Electronic Equipment,39.0
+SIAE MICROELETTRONICA,https://siaemic.com/,60377101070.0,joel.carrambas@siaemic.com,Italy,Cologno Monzese,1500.0,255000000.0,Electrical & Electronic Equipment,39.0
+Orbis Systems,https://www.orbissystems.eu/,358290040800.0,edward.wang@orbissystems.eu,Finland,Oulu,150.0,4300000.0,Industrial Goods,39.0
+Orbis Systems Group,https://www.orbissystems.fi/site/assets/ProCache-3e2317a9bc82d938b6ca57028c34/index.html,861067870880.0,carlos.monero@orbissystems.eu,Finland,Oulu,150.0,26707112.0,Electrical & Electronic Equipment,39.0
+Cube Optics,https://www.cubeoptics.com/,18664823778.0,roland.spahn@hubersuhner.com,Germany,Mainz,150.0,15400000.0,Electrical & Electronic Equipment,39.0
+Glory Print BD,https://gloryprintbd.com/,8801716294385.0,khorshed@gloryprintbd.com,Bangladesh,Dhaka,13.0,315119.0,Chemical Products,38.5
+Smart Modular,https://smartmodular.sg/,6592739402.0,vinent.yip@smartmodular.sg,Singapore,Singapore,75.0,20580716.0,Electrical & Electronic Equipment,38.5
+Shuangdeng Plastic,http://shuangdengsj.com/,8657686450200.0,sales@shuangdengsj.com,China,Taizhou,75.0,3803104.0,Rubber & Plastics,38.5
+Applied Felts,http://appliedfeltsindia.in/,918010888228.0,sales@appliedfeltsindia.com,India,Faridabad,75.0,721195.0,Rubber & Plastics,38.0
+Stål & Form,http://www.staalogform.dk/,4586554741.0,mail@staalogform.dk,Denmark,Odder,15.0,3116807.0,Processed Metal,38.0
+NTT Heating,https://www.ntt.com.my/,60123131050.0,sales@ntt.com.my,Malaysia,Petaling Jaya,75.0,4148404.0,Industrial Goods,38.0
+Delta Electronics,https://www.delta-singapore.com/en-SG/index,6567475155.0,nea-privacy@deltaww.com,Singapore,Singapore,59.0,23570136.0,Electrical & Electronic Equipment,37.5
+Nippon Gases Germany,http://nippongases.com/,34900700750.0,kundeservice@nippongases.com,Spain,Madrid,300.0,40000000.0,Chemical Products,37.5
+Malaysia Microelectronic Solutions,https://my-ms.com/,60379312258.0,sales_info@my-ms.com,Malaysia,Petaling Jaya,75.0,6510184.0,Electrical & Electronic Equipment,37.5
+Nippon Gases Germany,http://nippongases.com/,34900700750.0,kundeservice@nippongases.com,Spain,Madrid,300.0,40000000.0,Chemical Products,37.5
+Southern Cable,https://www.southerncable.com.my/,6044161600.0,sc@southerncable.com.my,Myanmar,Yangon,150.0,1214097.0,Electrical & Electronic Equipment,37.5
+Kasan Corporation M Sdn Bhd.,https://kasan.com.my/,60362017602.0,h-kobayashi@sk-kato.co.jp,Malaysia,Kuala Lumpur,125.0,7939575.0,Rubber & Plastics,37.5
+Nippon Gases Germany,http://nippongases.com/,34900700750.0,kundeservice@nippongases.com,Spain,Madrid,300.0,40000000.0,Chemical Products,37.5
+Beijing Dynamic Power Co. Ltd Myanmar Branch,http://www.dpc.com.cn/,959790638496.0,enquiry@dpc.com.cn,China,Fengtai District,150.0,169800000.0,Electrical & Electronic Equipment,37.5
+Kingtent Technology,https://kingtent.co.th/,6621012609.0,info@kingtent.co.th,Thailand,Bang Phli Yai Subdistrict,172.0,6550415.0,Electrical & Electronic Equipment,37.5
+Ioniser -Pro,http://www.ioniser-pro.co.uk/,441937586987.0,sales@ioniser-pro.co.uk,United Kingdom,Wetherby,75.0,16619607.0,Industrial Machinery,37.5
+Metro Com Engineering S.p.A.,https://metrocom.it/,390321845126.0,info@metrocom.it,Italy,Garbagna Novarese,75.0,11273039.0,Industrial Machinery,37.5
+Hydro Aluminium Rolled Products Benelux BV.,,,,Norway,Oslo,25.0,15080992.0,Raw Metal,37.5
+Advansia,https://advansia.co.id/,622150560260.0,indo@advansia.com,Indonesia,Tangerang,75.0,6648736.0,Chemical Products,37.5
+Dynasylan,https://www.silfin.de/,6568096906.0,ilona.kraft@evonik.com,Ireland,Dublin 2,,,Chemical Products,37.5
+Pintakäsittely Nokia Oy.,http://www.pk-nokia.fi/,358103840206.0,ari.suoniemi@pk-nokia.fi,Finland,Nokia,75.0,12845309.0,Processed Metal,37.5
+Sapphire Steel,https://www.sapphiresteel.co.uk/,442033698520.0,info@sapphiresteel.co.uk,United Kingdom,South Ockendon,75.0,11527679.0,Processed Metal,36.5
+BUFAB France,http://www.bufab.com/,3726540240.0,martin.alverdal@bufab.com,United Kingdom,High Wycombe,150.0,32871174.0,Processed Metal,36.5
+TM Technology . JSC,https://tm-tech.com.vn/,84349871779.0,sales-01@tm-tech.com.vn,Vietnam,Hanoi,75.0,1827278.0,Industrial Goods,36.5
+SKYWORTH,https://skyworth.com/,8675526010666.0,ir@skyworth.com,China,Shenzhen,1500.0,66383120.0,Electrical & Electronic Equipment,36.5
+BUFAB France,http://www.bufab.com/,3726540240.0,martin.alverdal@bufab.com,United Kingdom,High Wycombe,150.0,32871174.0,Processed Metal,36.5
+Delta Electronics,https://www.deltadisplays.eu/en/index.htm,31208003999.0,info@deltaww.com,Netherlands,Hoofddorp,,,Electrical & Electronic Equipment,36.0
+Dansk Overpumpning,https://danskoverpumpning.dk/,4570120014.0,info@danskoverpumpning.dk,Denmark,Slagelse Municipality,,,Industrial Goods,36.0
+Nestor cables,https://www.nestorcables.com/,358207912770.0,info@nestorcables.fi,Finland,Oulu,43.0,35900000.0,Electrical & Electronic Equipment,36.0
+Shenzhen Jiayou Digital Communication Co. Ltd.,https://toposhphone.en.alibaba.com/,862024321343.0,toposh_uk@hotmail.com,China,Shenzhen,76.0,11877303.0,Electrical & Electronic Equipment,36.0
+Sievo,https://new.sievo.nl/,31653959488.0,info@sievo.nl,Netherlands,Heemskerk,75.0,33987036.0,Industrial Machinery,35.5
+Nordix,http://nordix.ind.br/,5535988613379.0,nordix@nordix.ind.br,Brazil,Poços De Caldas,75.0,1692399.0,Machinery Parts,35.0
+DEKO STYLE,https://thedekostyle.com/,919719373766.0,info@thedekostyle.com,India,Aligarh,,,Industrial Goods,35.0
+SIPM,https://sipm.mx/,525524338154.0,jlchavez.spm@gmail.com,Mexico,Mexico City,75.0,6225939.0,Medical Equipment & Supplies,35.0
+Tongyu Communication,https://tongyucom.com/,8613326930396.0,edwin@tycc.cn,China,Guandong,,,Electrical & Electronic Equipment,35.0
+Cushman,https://txtsv.com/,17704227230.0,gsesales@textron.com,United States,Lincoln,170.0,250000000.0,Aerospace and Defence,34.5
+DANTEC S.r.l.,https://www.dantec.it/,390235954173.0,info@dantec.it,Italy,Giussano,75.0,11273039.0,Industrial Machinery,34.5
+Audiovox,https://audiovox.dk/,4570225141.0,info@audiovox.dk,Denmark,Herlev,75.0,33134818.0,Medical Equipment & Supplies,34.5
+Modul System,https://modul-system.it/,46457057466.0,gianni.mengozzi@modul-system.it,Italy,Cesena,150.0,34015548.0,Auto Parts,34.5
+Rittal,https://www.rittal.com/com-en/,41244241177.0,spaeth.p@rittal.de,Germany,Herborn,12000.0,2681681152.0,Renewable energy,34.5
+Vantiva Supply Chain Solutions,https://www.vantivasupplychain.com/,19014334104.0,,United States,Memphis,250.0,56243528.0,Books Printing & Stores,34.5
+Parlock,https://parlock.dk/,4543906100.0,sal@parlock.dk,Denmark,Greve Strand,75.0,19009956.0,Industrial Goods,34.5
+LEOCH Battery,http://leoch.sg/,6568636078.0,marketing.apac@leoch.com,Singapore,Singapore,55.0,20758510.0,Other Nondurable Products,34.5
+B.M.G CORPORATION CO LTD.,https://www.bmgcorporationltd.com/,6622359560.0,bmgcorporationltd@gmail.com,Thailand,Bang Rak,75.0,2426858.0,"Watches, Jewelry & Accessories",34.5
+Greenmind Brand,https://www.greenmindbrand.com/,6621495299.0,info@sevensave.co.th,Thailand,,75.0,3382008.0,Other Nondurable Products,34.0
+Leoch Battery,https://leoch.in/,9118003090145.0,service.india@leoch.com,India,Bangalore,56.0,646403.0,Other Nondurable Products,33.5
+Xingkerong,https://bkepower.com/,8613823534157.0,tan@xingkerong.com,China,Shenzhen,,,Electrical & Electronic Equipment,33.5
+Snowfirst,https://snow-first.com/,46722241163.0,info@snow-first.com,Sweden,Sundsvall,75.0,17472468.0,Industrial Machinery,33.5
+HUAWEI,https://www.huawei.com/en/,852800931122.0,transform@huawei.com,China,Shenzhen,207272.0,99599998976.0,"Tools, Hardware & Garden Products",33.5
+HUAWEI,https://www.huawei.com/en/,852800931122.0,transform@huawei.com,China,Shenzhen,207272.0,99599998976.0,"Tools, Hardware & Garden Products",33.5
+HUAWEI,https://www.huawei.com/en/,852800931122.0,transform@huawei.com,China,Shenzhen,207272.0,99599998976.0,"Tools, Hardware & Garden Products",33.5
+HUAWEI,https://www.huawei.com/en/,852800931122.0,transform@huawei.com,China,Shenzhen,207272.0,99599998976.0,"Tools, Hardware & Garden Products",33.5
+Dole,http://www.dole.co.th/,6632618111.0,job.dolethai@dole.com,Thailand,Hua Hin,150.0,7145235.0,Food Producers & Distributors,33.5
+Nice Telecom,https://nicetele.com/,998903242923.0,nicolas@nicetele.com,Uzbekistan,Tashkent,,,Electrical & Electronic Equipment,33.0
+ACOME Company a Cooperative,https://www.acome.com/en,33142791500.0,,France,Paris,3000.0,655900032.0,Electrical & Electronic Equipment,33.0
+Sysmex,https://www.sysmex.dk/,4570204501.0,aramadan@zahrawi.com,Denmark,Copenhagen,,,Industrial Goods,33.0
+Wrist Ship,https://www.wrist.com/,12818172074.0,wrist@wrist.com,Denmark,Nørresundby,1600.0,647695872.0,Boats & Ships,33.0
+Sacred Sun Europe,https://sacredsun.eu/,33557988040.0,contact@sacredsun.eu,France,Fargues,150.0,31208610.0,Other Nondurable Products,33.0
+ENETEK POWER,http://www.enetek-power-me.com/,97148809093.0,info@enetek-power-me.com,United Arab Emirates,Dubai,75.0,20619588.0,Electrical & Electronic Equipment,33.0
+Binkies,https://www.binkies.nl/,31850604876.0,wouter@binkies.nl,Netherlands,Dalfsen,15.0,2724878.0,Building Material,33.0
+EXFO,https://www.exfo.com/,861089508859.0,pr@exfo.com,Canada,Quebec,1900.0,284000000.0,Telecommunication Services,33.0
+Pure Tech Thailand Company Limited,https://klean-espthailand.com/,66834980481.0,kleanland.thai@gmail.com,Thailand,,75.0,1953880.0,Industrial Goods,33.0
+AGG power,https://www.aggpower.com/,971503740188.0,info@aggpower.com,United Kingdom,London,75.0,18070566.0,Electrical & Electronic Equipment,32.0
+MODULEX,https://www.modulex.vu/,6787756600.0,graham@modulex.vu,Vanuatu,,75.0,794463.0,Building Material,32.0
+3 Step,https://3-step.ru/,79853894689.0,mail.3-step@yandex.ru,Russia,Kraskovo,30.0,1483230.0,Processed Metal,32.0
+inlumi Lighting,http://inlumiled.com/,8675536963776.0,info@inlumiled.com,China,Shenzhen,210.0,12158882.0,Other Durable Products,32.0
+LiTHIUM BALANCE,https://lithiumbalance.com/,4558515104.0,lb_contact@sensata.com,Denmark,Herlev,27.0,4000000.0,Other Nondurable Products,31.5
+Sykes Racing,https://www.sykes.com.au/,61352213655.0,,Australia,Geelong,,,Boats & Ships,31.5
+Glory Fashions,https://gloryfashions.com/,88029890389.0,alaksaha@gloryfashions.com,Bangladesh,Dhaka,75.0,496709.0,Clothing,31.5
+INFINERA,https://www.infinera.com/,14085725200.0,apassi@infinera.com,United States,San Jose,3200.0,1356000000.0,Telecommunication Services,31.5
+Sapa Selection Norge,https://www.sapabuildingsystem.com/,46383761980.0,sapa.lt@hydro.com,Netherlands,Drunen,150.0,32181646.0,Glass & Wood Products,31.5
+Better World Fashion,https://www.betterworldfashion.com/,4531480858.0,info@betterworldfashion.com,Denmark,Nørresundby,15.0,2272528.0,Clothing,31.5
+Amazon,https://amazon.jobs/en/,,u003ehr-dsr-privacy@amazon.com,United States,,150.0,65016468.0,Software & IT Services,31.5
+eti Conformity Services,https://www.eticonformity.com/en-us/,18004686384.0,salescloudsupport@vertivco.com,United States,Santa Fe Springs,8.0,10000000.0,Engineering Services,31.5
+Logenix International,https://logenix.com/,17032564885.0,info@logenix.com,United States,Fairfax,210.0,49600000.0,"Warehousing, Logistics & Support",31.5
+ON THE SPOT,https://onthespot.net/,4570255800.0,mail@onthespot.net,Denmark,Hvidovre Municipality,75.0,23170348.0,Other Durable Products,31.5
+Kerry Logistics Oceania,https://kerrylogisticsoceania.com/,61296950611.0,contact.melbourne@kerrylogistics.com,New Zealand,Auckland,140.0,27529344.0,"Warehousing, Logistics & Support",31.5
+GR Technologies,https://www.grmouthpieces.com/,17057157060.0,grmouthpieces@gmail.com,United States,Dousman,30.0,30500000.0,Other Durable Products,31.5
+Wireless DMX,https://wirelessdmx.com/,46313010370.0,chantigach@tsm-int.com,Sweden,Gothenburg,75.0,24064088.0,Consumer Electronics & Appliances,31.5
+Altair Aesthetic,https://altairaesthetic.com/,6596375665.0,,Singapore,Singapore,75.0,79647328.0,Cosmetic Products,31.0
+Endustriyel Urunler A.S.,https://105wx.com/,84837432612.0,qa@prelectronics.com,United States,Rose Valley,,,Industrial Goods,31.0
+Munir Sukhtian International,https://sukhtian-international.com/,96265549023.0,info@multivision.com.jo,Pakistan,Islamabad,75.0,420757.0,Electrical & Electronic Equipment,31.0
+KAON P&S,https://www.kaonpns.com/,,info@kaonpns.com,United States,Newton,150.0,112863832.0,Adhesives & Paints,31.0
+Subex,http://subex.ro/,40745621767.0,secretariatsubex@yahoo.com,Romania,Bacău,75.0,5537187.0,Processed Metal,30.5
+SystemTeknik,https://systemteknik.dk/,4542749419.0,rfq@systemteknik.dk,Poland,Szczecin,,,Electrical & Electronic Equipment,30.5
+Nordic Medical Equipment & Services,https://nordicmedicalequipment.com/,27781857487.0,sales@nordicmedicalequipment.com,Denmark,Copenhagen,,,Medical Equipment & Supplies,30.5
+Subex,http://subex.ro/,40745621767.0,secretariatsubex@yahoo.com,Romania,Bacău,75.0,5537187.0,Processed Metal,30.5
+HETEK,https://www.hetek.com.ph/,,heteksales@gmail.com,Philippines,Bacoor,75.0,1910495.0,"Pipes, Fittings & Bath Furniture",30.0
+Ericsson,https://www.ericsson.com/en,46107190000.0,investor.relations@ericsson.com,Sweden,Stockholm,100000.0,25255903232.0,Telecommunication Services,30.0
+JLT Lighting Technology,https://jlt-lightech.com/,201227364977.0,info@jlt-lightech.com,Egypt,Cairo,75.0,1480462.0,Other Durable Products,30.0
+DURALAMP,http://www.duralamp.com/,390558953032.0,duralamp@duralamp.it,Italy,Florence,26.0,6100000.0,Other Durable Products,30.0
+Underwater systems,https://www.underwatersystems.fr/,33642207205.0,stll@underwatersystems.fr,France,Fréjus,75.0,36780988.0,Adhesives & Paints,30.0
+Network Foods,https://www.networkfoods.com/,60355246803.0,marketing@networkfoods.com.my,Malaysia,Shah Alam,150.0,9010468.0,Bakeries & Desserts,30.0
+Ericsson,https://www.ericsson.com/en,46107190000.0,investor.relations@ericsson.com,Sweden,Stockholm,100000.0,25255903232.0,Telecommunication Services,30.0
+Nestaan Nordic,https://nestaan-nordic.com/,4586373811.0,info@nestaan.dk,Denmark,Herning,,,Rubber & Plastics,30.0
+Ericsson,https://www.ericsson.com/en,46107190000.0,investor.relations@ericsson.com,Sweden,Stockholm,100000.0,25255903232.0,Telecommunication Services,30.0
+Tsukamoto Musen,https://wtw.support/,815017528000.0,support@wtw.jp,Japan,,75.0,14789040.0,Consumer Electronics & Appliances,30.0
+Ansigtsproteser DK,http://ansigtsproteser.dk/,4521268603.0,info@ansigtsproteser.dk,Denmark,Aalborg,1.0,442543.0,Medical Equipment & Supplies,30.0
+Malik Streams,https://malikstreams.com.my/,60320728272.0,support@malikstreams.com.my,Malaysia,Kuala Lumpur,10.0,2862479.0,Food Producers & Distributors,30.0
+ORACLE Project,https://oracle-jp.eu/,4593508345.0,,Denmark,Aarhus,,,Chemical Products,30.0
+Aisin Europe,https://www.aisin-europe.com/,4971149065606.0,,Belgium,Braine-l'Alleud,620.0,150000000.0,Auto Parts,30.0
+HONDA,https://www.honda.dk/,4554861016.0,info.dk@honda-eu.com,Denmark,Kolding,,,Automobile Dealers & Manufacturers,30.0
+Vee Tire Co.,https://veetireco.com/,14043059395.0,sales@veetireco.com,United States,Atlanta,150.0,3600000.0,Auto Parts,30.0
+BiGiD,https://bigid-engineering.de/,905302742337.0,info@bigid-engineering.com,Germany,Waakirchen,,,Industrial Machinery,29.5
+APPLE VISION,https://apple-vision.com/,60362414215.0,cs@apple-vision.com,Malaysia,,75.0,4007126.0,Ophthalmic & Optical Instruments & Lenses,29.0
+Techno Marine,https://www.technomarine.com.sg/,6564474163.0,sales@technomarine.com.sg,Singapore,,150.0,53315056.0,Boats & Ships,29.0
+TinEx GmbH,https://tinex-gmbh.de/,4982819245502.0,info@tinex-gmbh.de,Germany,Neuenstein,75.0,20128358.0,Automobile Dealers & Manufacturers,29.0
+Eltel,https://eltel.com/,38540364270.0,eltel@eltel.com,Croatia,Čakovec,75.0,3432761.0,Commercial Equipment & Supplies,29.0
+Tampnet,https://www.tampnet.ind.br/,552137743400.0,,Brazil,Duque De Caxias,,,Rubber & Plastics,29.0
+HETEK,https://hetek.org/,493692351000.0,info@hetek.de,Germany,Treffurt,,,Industrial Machinery,29.0
+COSLIGHT,http://cncoslight.com/,8613804532691.0,huangjianmin@cncoslight.com,China,Harbin,150.0,9130445.0,Other Nondurable Products,29.0
+Menicon Singapore,https://www.menicon.sg/corporate/,6564114778.0,,Singapore,Singapore,150.0,52291456.0,Ophthalmic & Optical Instruments & Lenses,29.0
+VERTIV,https://www.vertiv.cn/,18662771924.0,salescloudsupport@vertivco.com,United States,Westerville,,,Electrical & Electronic Equipment,29.0
+SJ Gruppen,https://www.sj-container.dk/,4563614050.0,post@sj-container.dk,Denmark,Faaborg,75.0,19908272.0,Industrial Goods,29.0
+RC Model Truck Fyn,https://rcmodeltruckfyn.dk/,4566176659.0,odenseh@sds.dk,Denmark,Odense Kommune,6.0,1849481.0,Auto Parts,29.0
+SJEC,https://sjecdanmark.dk/,4570202688.0,info@sjecdanmark.dk,Denmark,Jyllinge,,,Industrial Machinery,29.0
+YOFC,https://yofc.com/,864000066869.0,wuhongyan@yofc.com,China,Wuhan,150.0,2000000000.0,Electrical & Electronic Equipment,29.0
+Mixto As,https://www.mixto.no/,4721420606.0,kundeservice@mixto.no,Norway,Oslo,3.0,1498524.0,Commercial Equipment & Supplies,29.0
+Oticon A/S.,https://www.oticon.nl/,4592927000.0,brugerservice@oticon.dk,Denmark,Smørumnedre,,,Medical Equipment & Supplies,29.0
+TEAM UP INTERNATIONAL,https://team-up-international.com/,13053351234.0,jchanoz@hotmail.com,United States,Palm Beach County,75.0,77506888.0,Pharmaceuticals,29.0
+Advansia,https://advansia.com/,60331015993.0,info@advansia.com,Malaysia,Klang,75.0,5475238.0,"Grains, Horticulture & Other Farms",29.0
+EVERSOFT,https://www.eversoft.sg/,6567325611.0,,Singapore,Singapore,75.0,79647328.0,Cosmetic Products,28.5
+Swichtec Power Systems,https://swichtec.com.my/,60378453236.0,enquiries@swichtec.com.my,Malaysia,Shah Alam,75.0,4592018.0,Electrical & Electronic Equipment,28.5
+BCD Planet,https://bcdplanet.com/,15163956131.0,contact@bcdplanet.com,United States,New York,1.0,257520.0,Clothing,28.5
+Denkstatt,https://denkstatt.at/,421232335106.0,office@denkstatt.at,Bulgaria,Sofia,31.0,1042493.0,Engineering Services,28.5
+Aalborg Chokoladen,http://www.aalborgchokoladen.dk/,4529842957.0,info@aalborgchokoladen.dk,Denmark,Aalborg Municipality,15.0,9402617.0,Bakeries & Desserts,28.5
+Globe Tracker,https://www.globetracker.com/,4536987526.0,support@globetracker.com,Denmark,Copenhagen,75.0,15000000.0,Freight Transport,28.5
+BAE Systems,http://www.baesystems.com/,443301585268.0,investors@baesystems.com,United Kingdom,Camberley,107400.0,31832254464.0,Aerospace and Defence,28.5
+A.R. International,https://arint.com.pk/,92512348151.0,info@arint.com.pk,Pakistan,Islamabad,75.0,1853042.0,Chemical Products,28.5
+China Harbour Singapore Engineering Company Pte. Ltd.,,6568536358.0,,Singapore,Singapore,160.0,,Engineering Services,28.5
+SETEC,https://www.setec.es/,34915191450.0,info@setec.es,Spain,Madrid,75.0,19568692.0,Industrial Machinery,28.5
+Kinnarps,https://www.kinnarps.be/,4651538000.0,info@kinnarps.se,Belgium,Wemmel,24.0,3380838.0,Furniture,28.5
+AGG power,http://www.aggpower.com/,97148821208.0,,United Arab Emirates,,,,Electrical & Electronic Equipment,28.0
+Tietoevry Wearables,https://www.evrywear.no/,4721896245.0,kundeservice@evrywear.no,Norway,Mo I Rana,,,"Watches, Jewelry & Accessories",28.0
+Tietoevry Wearables,https://www.evrywear.no/,4721896245.0,kundeservice@evrywear.no,Norway,Mo I Rana,,,"Watches, Jewelry & Accessories",28.0
+SNOW WAY,https://snow-way.cz/,420702101933.0,info@snow-way.cz,Czechia,Liberec,75.0,15160807.0,Auto Parts,28.0
+SST,https://sst.com.pk/,922135169397.0,info@sst.com.pk,Pakistan,Karachi Division,75.0,447775.0,"Pipes, Fittings & Bath Furniture",27.5
+ISDF,http://isdfuae.com/,97165586985.0,rogey.john@isdfuae.com,United Arab Emirates,Sharjah,75.0,24793384.0,Consumer Electronics & Appliances,27.5
+Universal Network System Limited,https://www.blue-ex.com/,923008438645.0,ask@blue-ex.com,Pakistan,Saddar Town,260.0,984471.0,"Warehousing, Logistics & Support",27.5
+OMD World Imaging,https://omdworldimaging.com/,,enquiry@omdworldimaging.com,Malaysia,Kuala Lumpur,,,Medical Equipment & Supplies,27.0
+SCIBASE,https://scibase.com/,46841062000.0,info@scibase.com,Sweden,Sundbyberg,150.0,48998968.0,Medical Equipment & Supplies,27.0
+Marubeni-Itochu Tubulars Asia,https://www.misteel.com.sg/,60327206391.0,mita.dpo@misteel.com.sg,Singapore,Singapore,525.0,288129024.0,Processed Metal,27.0
+2A Pharma ApS.,https://2apharma.com/,4572146700.0,info@2apharma.com,Denmark,Aalborg,35.0,23532880.0,Pharmaceuticals,27.0
+Kinnarps,http://www.kinnarps.hu/,36307365611.0,kinnarps.hungary@kinnarps.hu,Hungary,Budapest,14.0,1063292.0,Furniture,27.0
+Tape World,https://tapeworld.com.pk/,923216656265.0,tapeworld@cyber.net.pk,Pakistan,Karachi,,,Adhesives & Paints,27.0
+Tata Steel Europe,https://www.tatasteeleurope.com/,31251499111.0,nieuws@tatasteeleurope.com,United Kingdom,London,21000.0,2167000064.0,Processed Metal,27.0
+MPCN,http://www.mpcn.asia/,60193826383.0,jobs@mpcn.asia,Malaysia,Petaling Jaya,75.0,5127211.0,Medical Equipment & Supplies,27.0
+Dansk Miljø Analyse,http://dma.nu/,4545662095.0,mo@dma.nu,Denmark,Rudersdal Municipality,16.0,2712059.0,Engineering Services,27.0
+Teknik Padu,http://teknikpadu.com/,60342514306.0,norliza@teknikpadu.com.my,Malaysia,Kuala Lumpur,75.0,2829145.0,Engineering Services,27.0
+Exide,http://exide.com.ru/,78002012139.0,office@exide.com.ru,Russia,Moscow,40.0,2899240.0,Other Nondurable Products,27.0
+FC Strømmen,https://strommen.dk/,4520220397.0,ajo@fc-strommen.dk,Denmark,Odder,75.0,21643986.0,Bakeries & Desserts,27.0
+Pm energi,https://pmenergi.dk/,4598801822.0,salg@pmenergi.dk,Denmark,Brønderslev,,,Electrical & Electronic Equipment,27.0
+Vertiv,http://shengxuelu.cn/,8673183202222.0,admin@shengxuelu.cn,China,,,,Auto Parts,27.0
+Information Satellite Systems Reshetnev,https://www.iss-reshetnev.com/,,,Russia,Zheleznogorsk,8500.0,625000000.0,Electrical & Electronic Equipment,26.5
+Rittal,http://www.rittal.co.th/,6620545511.0,,Thailand,Saphan Sung,,32700000.0,Electrical & Electronic Equipment,26.5
+Speedaf Express,https://speedaf.com/cn-cn,864008880975.0,info@speedaf.com,Nigeria,Mushin,75.0,675531.0,"Warehousing, Logistics & Support",26.5
+Skil,https://skil.ec/,551921034511.0,sac@br.bosch.com,Brazil,Nova Iguaçu,,,Electrical & Electronic Equipment,26.0
+Merlin Press,http://merlinpress.ie/,35318020470.0,info@merlinpress.ie,Ireland,Balbriggan,15.0,4568227.0,Books Printing & Stores,26.0
+Birk Denmark,https://birkdenmark.com/,4549407870.0,contact@birkdenmark.com,Denmark,Skive Municipality,15.0,12539290.0,Cosmetic Products,26.0
+WOODLAND,https://www.woodland.hu/,36305521637.0,info@woodland.hu,Hungary,Ráckeve,,,Building Material,26.0
+AEGER Ingeniería,http://aeger.es/,34963442764.0,mac@aeger.es,Spain,Valencia,30.0,2565593.0,Engineering Services,26.0
+playscapes Denmark,https://playscapes.dk/,4520128222.0,info@playscapes.dk,Denmark,Aarhus,4.0,1101224.0,"Party, Toys & Games",26.0
+Birk Denmark,https://birkdenmark.com/,4549407870.0,contact@birkdenmark.com,Denmark,Skive Municipality,15.0,12539290.0,Cosmetic Products,26.0
+Red Bull,http://www.redbull.com.my/,60320222613.0,,Malaysia,Subang Jaya,30.0,3499901.0,Beverages,25.5
+Orogenic,https://orogenic.dk/,4572183883.0,sales@orogenic.dk,Denmark,Vejle,75.0,24358964.0,Other Nondurable Products,25.5
+NORDIC MEDICAL SOLUTIONS,https://www.nordicms.com/,4573707880.0,admin@nordicms.com,Denmark,Copenhagen,20.0,15595274.0,Medical Equipment & Supplies,25.5
+Lier Planteland,https://lierplanteland.no/,4790223165.0,post@lierplanteland.no,Norway,Lier,25.0,10251673.0,"Grains, Horticulture & Other Farms",25.5
+Transmode Logistics,https://transmode.co.uk/,441394675635.0,bookings@transmode.co.uk,United Kingdom,Felixstowe,75.0,12951546.0,Freight Transport,25.5
+South East Asia Sails,https://southeastasiasails.com/,6676604598.0,robert.tasker@southeastasiasails.com,Thailand,Choeng Thale,15.0,431358.0,Boats & Ships,25.0
+Estel Conversion Labs,https://estellabs.com/,912048609399.0,sales@estellabs.com,India,Kolhapur,13.0,92724.0,Newspapers & Magazines,25.0
+HPVALVES,https://www.hpvalves.co.th/,66816526354.0,hpvalves.my@gmail.com,Thailand,Thawi Watthana,75.0,2716320.0,"Pipes, Fittings & Bath Furniture",25.0
+StarComm,https://starcomautoportas.com.br/,551931141823.0,,Brazil,Sumaré,30.0,939544.0,Glass & Wood Products,25.0
+Seagems group,https://seagems.com/,,elisabeth.mostue@seagemsnorway.com,Norway,Ålesund,150.0,101655064.0,"Meat, Poultry & Dairy",25.0
+Marniq Bersatu,https://marniq.com/,60397767351.0,info@marniq.com,Malaysia,Kuala Lumpur,13.0,335755.0,Engineering Services,24.5
+NCB,https://www.ncb.dk/index.php,4533368700.0,ncb@ncb.dk,Denmark,Copenhagen,75.0,45410572.0,Art & Music Publishers,24.5
+Goecker Automation,https://goeckerautomation.com/,18125221351.0,design@goeckerautomation.com,United States,Seymour,,,Engineering Services,24.5
+Nemko,http://www.nemko.com/,497240630.0,japan@nemko.com,Norway,Oslo,3000.0,749440000.0,Finishing Contractors,24.5
+Elgiganten,https://www.elgiganten.dk/,4527050906.0,hello@elgiganten.dk,Denmark,Copenhagen,2469.0,843731840.0,Consumer Electronics & Appliances,24.0
+ECO STOR,https://eco-stor.com/,4745802152.0,lr@eco-stor.com,Norway,Oslo,35.0,17000088.0,Other Nondurable Products,24.0
+ISS Global Forwarding Taşımacılık A.Ş,https://iss-globalforwarding.com.tr/,903423378988.0,tr.contact@iss-gf.com,Turkey,Akdeniz,105.0,20946112.0,Freight Transport,24.0
+FIRST CLASS LOGISTICS,https://first-classlogistics.com/,66923978822.0,pongsak@first-classlogistics.com,Thailand,Yan Nawa District,75.0,1499469.0,Freight Transport,24.0
+Covetrus,http://covetrus.com/,18779992838.0,jenne.meyer@covetrus.com,United States,Portland,5500.0,4338999808.0,Other Nondurable Products,24.0
+GNEX,https://gnex.com.my/,601123879855.0,support@gnex.com.my,Malaysia,Ampang Jaya Municipal Council,,,Freight Transport,24.0
+Lobo Contract,https://lobo-contract.dk/,4547314600.0,lobo@lobo-contract.dk,Denmark,Frederikssund,75.0,15949941.0,Furniture,24.0
+HAUX,https://haux.com/,4539642400.0,birgitte@haux.dk,Denmark,Herlev,,,Beverages,24.0
+Net Zero Asia,https://netzero.asia/,,hello@netzero.asia,Singapore,Singapore,1.0,216208.0,Engineering Services,24.0
+Covetrus,http://covetrus.com/,18779992838.0,jenne.meyer@covetrus.com,United States,Portland,5500.0,4338999808.0,Other Nondurable Products,24.0
+Transcool,http://www.transcool.com.sg/,6566844008.0,sales@transcool.com.sg,Singapore,Singapore,75.0,64703796.0,Industrial Goods,24.0
+TCT Asia,http://tct-electronics.com/,16145375834.0,info@tct-electronics.com,Hong Kong,Hong Kong Island,3.0,1826593.0,Electrical & Electronic Equipment,23.5
+Wipro Limited,,917337894181.0,,India,New Delhi,20000.0,,Engineering Services,23.5
+Widerøe Zero,https://wideroezero.com/,4775535010.0,lina.lindegaard.carlsen@wideroe.no,Norway,Bærum,8.0,10434764.0,Aerospace and Defence,23.0
+Salling Group,https://puchcykler.dk/,4587783000.0,scocykler@sallinggroup.com,Denmark,Aarhus,,,"Bicycle, Motorcycle & ATVs",23.0
+SAILPOINT TECHNOLOGIES,https://www.sailpointt.xyz/,17139934675.0,sale@salientpar.xyz,United States,Houston,,,Clothing,23.0
+ZTE,https://www.zte.com.cn/global/,923425001111.0,sdnfv@zte.com.cn,China,Shenzhen,74811.0,17824249856.0,Telecommunication Services,23.0
+ZTE,https://www.zte.com.cn/global/,923425001111.0,sdnfv@zte.com.cn,China,Shenzhen,74811.0,17824249856.0,Telecommunication Services,23.0
+Uniteam,http://uniteam.com.pk/,922135861355.0,info@uniteam.com.pk,Pakistan,Saddar Town,75.0,280704.0,Engineering Services,23.0
+Atea World,https://atea.world/,447312104334.0,contact@atea.world,United Kingdom,Nottingham,15.0,2627359.0,"Party, Toys & Games",23.0
+AVIAT NETWORKS,https://aviatnetworks.com/,15122653680.0,privacy@aviatnet.com,United States,Santa Clara,708.0,243857997824.0,Telecommunication Services,23.0
+Walther Rådgivende Ingeniør,https://www.waltherraadgivning.dk/,4551361469.0,lasse@waltherraadgivning.dk,Denmark,Aarhus,15.0,2906194.0,Engineering Services,23.0
+DEASAero,https://deasaero.com/,,,,,75.0,,Engineering Services,23.0
+Gorila Products,https://gorilaproducts.com/,923230483686.0,gorilainsectisideproducts@gmail.com,Pakistan,Civil Lines,,,Other Nondurable Products,23.0
+Posten Bring,https://www.postenbring.no/,4740000377.0,personvernombud@posten.no,Norway,Oslo,12600.0,2497012736.0,"Warehousing, Logistics & Support",23.0
+Boomerang. Part of Publicis Groupe,https://www.boomerangcreate.nl/,31202617383.0,,Netherlands,Amsterdam,430.0,70566496.0,Digital Agencies,22.5
+Wire & Wireless,https://www.ww.co.th/,6620344500.0,contact@ww.co.th,Thailand,Suan Luang,,,Finishing Contractors,22.5
+tech Action,http://www.techaction.com.my/,60167493742.0,info@techaction.com.my,Malaysia,Skudai,3.0,276966.0,Art & Music Publishers,22.5
+eGeneration,https://egeneration.co/,8801768415522.0,,Bangladesh,Dhaka,140.0,1361697.0,Software & IT Services,22.5
+PostNord Birkerød Postbutik,,4570602230.0,,Denmark,Copenhagen,,,Freight Transport,22.5
+Energy Cool,https://energy-cool.com/,4522226780.0,dr@energy-cool.com,Denmark,Fredericia Municipality,75.0,17263164.0,Renewable energy,22.5
+Waystream Signs,https://www.waystreamsigns.com/,,,,,75.0,,Commercial Equipment & Supplies,22.0
+Pelatro,http://thelakshya.in/,918049033200.0,demo@pelatro.com,India,Bengaluru,15.0,226009.0,Food Producers & Distributors,22.0
+Environmental Services Pakistan,https://espak.com.pk/,924235154015.0,info@espak.com.pk,Pakistan,,35.0,123540.0,Engineering Services,22.0
+SUPR Water,https://suprwater.com/,918160658529.0,sup@suprwater.com,India,New Delhi,15.0,345835.0,Beverages,22.0
+Environmental Services Pakistan,https://espak.com.pk/,924235154015.0,info@espak.com.pk,Pakistan,,35.0,123540.0,Engineering Services,22.0
+Thai Cad Services,https://thaicadservices.com/,66805740411.0,thaicadservices@gmail.com,Thailand,Bangkok,6.0,185821.0,"Watches, Jewelry & Accessories",22.0
+LEASE A BOX,https://www.leaseabox.dk/,4553372212.0,info@leaseabox.dk,Denmark,Helsinge,15.0,772224.0,"Warehousing, Logistics & Support",22.0
+NIX Europe,https://nixstech.com/,3619011055.0,ask@nixstech.com,Hungary,Budapest,160.0,8346834.0,Software & IT Services,21.5
+Intellectual Property Corporation of Malaysia MyIPO,https://www.myipo.gov.my/en/home/,60322998418.0,fathir@myipo.gov.my,Malaysia,Kuala Lumpur,28.0,42000.0,Government,21.5
+SOLUTICS,https://solutics.co.uk/,441270322808.0,info@solutics.co.uk,United Kingdom,Crewe,25.0,3751178.0,Software & IT Services,21.5
+COUPA,https://coupa.co.jp/,81366255349.0,info@coupa.co.jp,Japan,Minato,11.0,1261172.0,Software & IT Services,21.5
+Bryn Gård,https://www.xn--bryngrd-ixa.no/,4799351733.0,erik.roekholt@hotmail.no,Norway,Bærum,8.0,4907827.0,"Grains, Horticulture & Other Farms",21.5
+Swedish Match,http://www.swedishmatch.com/,902122753375.0,info@swedishmatch.com.tr,Sweden,Stockholm,7523.0,1773133184.0,Tobacco,21.5
+Viaplay Group,https://www.viaplaygroup.com/en,46856202500.0,,Sweden,Stockholm,1708.0,1151112445952.0,Media Companies,21.5
+Aquamatch,https://aquamatch.pk/,923454597278.0,info@aquamatch.pk,Pakistan,Lahore,75.0,446596.0,Utillities,21.5
+Bryn Gård,https://www.xn--bryngrd-ixa.no/,4799351733.0,erik.roekholt@hotmail.no,Norway,Bærum,8.0,4907827.0,"Grains, Horticulture & Other Farms",21.5
+Scrive,https://pepinierescrive.com/,33558980186.0,pepinieres@pepiscrive.com,France,Estibeaux,8.0,1371991.0,"Grains, Horticulture & Other Farms",21.5
+BÄKO DANMARK,https://www.baekodanmark.dk/,4539694010.0,kontor@baekodanmark.dk,Denmark,Ishøj Municipality,75.0,5324900.0,Bakeries & Desserts,21.5
+Advanced Energy,,6073537033.0,,Malaysia,Tebrau,,,Engineering Services,21.0
+SNOW Studio,https://snowstudio.dk/,4541852674.0,info@snowstudio.dk,Denmark,Copenhagen,15.0,2770946.0,Architecture & Planning,21.0
+A-office,https://a-office.se/,4687090052.0,info@a-office.se,Sweden,,75.0,19225768.0,Furniture,21.0
+Madlins,http://www.madlins.co.uk/,441483751600.0,info@madlins.co.uk,United Kingdom,Woking,21.0,1577740.0,Architecture & Planning,21.0
+Advanced Engineering Construction Sdn. Bhd.,,6073873506.0,,Malaysia,Masai,,,Engineering Services,21.0
+Aalborg Engineering A/S.,,4596313950.0,,Denmark,Aalborg,,,Engineering Services,21.0
+CommScope APAC,https://commscopeapacmerchandise.com/products,6563975819.0,commscope@dtcworld.com,Singapore,,75.0,18512304.0,Books Printing & Stores,21.0
+Universal Technologies Thailand Co. Ltd.,,6626550107.0,,Thailand,Pathum Wan,,,Engineering Services,21.0
+NEC Corporation of Malaysia,https://www.nec.com/,842838121506.0,recruitment@nec.vn,Japan,Tokyo,114714.0,26541574144.0,Telecommunication Services,21.0
+COM Engineering Ltd.,,441244629957.0,,United Kingdom,Flintshire,,,Engineering Services,21.0
+ISS GLOBAL,https://iss-global-bmt.com/,,ahmed@iss-global-bmt.com,United Kingdom,London,75.0,27084392.0,Building Material,20.5
+Dades Center,,22964630609.0,,Benin,Parakou,,,Books Printing & Stores,20.0
+SAS CTRL AS,https://sas-ctrl.no/,4791511137.0,kjell@sas-ctrl.no,Norway,Bærum,,,Engineering Services,20.0
+Mette Lund Keramik,https://mettelund-keramik.dk/,4529841360.0,mettelundchristoffersen@gmail.com,Denmark,Ebeltoft,1.0,194758.0,Other Durable Products,20.0
+InTouch Communications,http://www.intouchcreative.com/,19024797767.0,karim@proptonics.com,Canada,Halifax,9.0,1564620.0,Marketing & Advertising Agencies,20.0
+Ekman Holding Oy.,http://www.ekmanholding.fi/,35855433300.0,,Finland,Lappeenranta,30.0,16853280.0,Industrial Machinery,20.0
+Pharma Consultant Pakistan,https://pharmaconsultantpakistan.com/,923219447528.0,kashif@pharmaconsultantpakistan.com,Pakistan,Lahore,13.0,63653.0,Business Consulting,20.0
+AZ Technology,https://az-tech.my/,60378048450.0,techsupport@az-tech.my,Malaysia,Petaling Jaya,75.0,11588822.0,Electrical & Electronic Equipment,20.0
+MyPallet,https://mypallet.io/,4539184494.0,info@mypallet.dk,Denmark,Horsens,14.0,2510798.0,Software & IT Services,19.5
+Atab civiele techniek,https://atabcivieletechniek.nl/,31183820368.0,vraag@atablandmeettechniek.nl,Netherlands,Werkendam,16.0,1498554.0,Architecture & Planning,19.5
+Vertiv,https://www.vertiv.com/en-emea/,353749368719.0,marketing.india@vertiv.com,United States,Westerville,31000.0,6899999744.0,Telecommunication Services,19.5
+Extenda Retail,https://www.extendaretail.com/,46707930287.0,carolin.jaques@extendaretail.com,Sweden,Solna,210.0,111300000.0,Software & IT Services,19.5
+Square Trade,https://sqtr.co/,442035142354.0,helloeurope@squaretrade.com,Belgium,Brussels,150.0,25584758.0,Insurance,19.5
+Square Trade,https://sqtr.co/,442035142354.0,helloeurope@squaretrade.com,Belgium,Brussels,150.0,25584758.0,Insurance,19.5
+Nets group,https://nets.eu/,4721554401.0,atata@nets.eu,Denmark,Ballerup,2700.0,914499968.0,Banks & Financial Services,19.5
+ANALYSYS,https://www.analysys-jarnac.fr/,33545350874.0,infocontact@analysys-france.fr,France,Jarnac,43.0,8769248.0,Utillities,19.5
+Delfi Technologies,https://www.delfi.com/en/,4570222555.0,info@delfi.com,Denmark,Køge,170.0,16500000.0,Software & IT Services,19.5
+Amdocs,http://www.amdocshealth.com/,12049449724.0,hr@amdocshealth.com,Canada,Winnipeg,150.0,22371510.0,Hospitals & Clinics,19.5
+Nagarro,https://www.nagarro.com/en,4989758000282.0,ir@nagarro.com,Germany,Munich,18000.0,1072672512.0,Software & IT Services,19.5
+Nets group,https://nets.eu/,4721554401.0,atata@nets.eu,Denmark,Ballerup,2700.0,914499968.0,Banks & Financial Services,19.5
+Mercedes-Benz,https://www.mercedes-benz.dk/,4533788900.0,dataskydd@mercedes-benz.com,Denmark,Copenhagen,75.0,60263264.0,Automobile Dealers & Manufacturers,19.5
+Arthur Schneider,http://arthurschneider.com/,4552340560.0,info@arthurschneider.com,Denmark,Syddjurs Municipality,1.0,528875.0,Art & Music Publishers,19.5
+DLA Technology,https://dlatech.com.my/,60333599257.0,dlaoperation@dlatech.com.my,Malaysia,Shah Alam,,,Telecommunication Services,19.5
+Gartner 1,http://gartner1.no/,4747816581.0,post@gartner1.no,Norway,Moss,1.0,200944.0,Architecture & Planning,19.5
+Google Asia Pacific Pte. Ltd.,https://duoi625maxim.com/,,,Singapore,,,,Media Companies,19.5
+DLA Technology,https://dlatech.com.my/,60333599257.0,dlaoperation@dlatech.com.my,Malaysia,Shah Alam,,,Telecommunication Services,19.5
+HE Jørgensen,https://hej.as/,4556303030.0,persondata@hej.as,Denmark,Haslev,74.0,190982096.0,Automobile Dealers & Manufacturers,19.5
+Eastcompeace,https://www.worldclasslighting.com/,88029899151.0,eastcompeace@eastcompeace.com,Singapore,Singapore,,,Consumer Electronics & Appliances,19.0
+CHINA GLOBAL LINK LOGISTIC CO. LIMITED,https://gll-ch.com/,,info@gll-ch.com,Hong Kong,Kwai Chung,,,Freight Transport,19.0
+Conscia Danmark A/S.,https://laugesen.io/,4531629348.0,martin@laugesen.io,Denmark,Ringsted,,,Freight Transport,19.0
+Sun Creature,https://suncreature.com/,,contact@suncreature.com,Denmark,Copenhagen,75.0,14129701.0,Media Companies,19.0
+Eastcompeace,https://www.worldclasslighting.com/,88029899151.0,eastcompeace@eastcompeace.com,Singapore,Singapore,,,Consumer Electronics & Appliances,19.0
+Affirmed Cyber,https://affirmedcyber.com/,17812480715.0,info@affirmedcyber.com,United States,Dover,2.0,741411.0,Software & IT Services,19.0
+GGS,https://ggs.no/,4795282110.0,bjorn.ursin-holm@ggs.no,Norway,,150.0,44621656.0,Architecture & Planning,19.0
+Management Doctors,https://managementdoctors.se/,,info@managementdoctors.se,Sweden,Nacka,2.0,366808.0,Business Consulting,18.5
+Management Doctors,https://managementdoctors.se/,,info@managementdoctors.se,Sweden,Nacka,2.0,366808.0,Business Consulting,18.5
+Hum Network,https://www.humnetwork.tv/,17034169134.0,mohsin.naeem@hum.tv,Pakistan,Karachi Division,721.0,5750132.0,Media Companies,18.5
+YTL PowerSeraya,https://ytlpowerseraya.com.sg/,6563631010.0,contact@geneco.sg,Singapore,Singapore,150.0,181067104.0,Utillities,18.5
+MEDIA CITY ODENSE,https://www.mediacityodense.dk/,4541994606.0,info@mediacityodense.dk,Denmark,Odense,5.0,1619150.0,Media Companies,18.5
+South Pole,,576045205000.0,,Sweden,Stockholm,,,Engineering Services,18.0
+Atea Logistics,https://atea.com/,4722095000.0,,Norway,Oslo,160.0,3700000000.0,Telecommunication Services,18.0
+Atea Logistics,https://atea.com/,4722095000.0,,Norway,Oslo,160.0,3700000000.0,Telecommunication Services,18.0
+Mobilepeople,https://mobilepeople.dk/,4570131370.0,info@mobilepeople.com,Denmark,Herlev,15.0,1200000.0,Banks & Financial Services,18.0
+Ubi services,https://ubi-services.eu/,,info@antipa.ro,,,,,Consumer Electronics & Appliances,18.0
+Qlik,https://www.qlik.com/us,390297137050.0,ampquestions@qlik.com,United States,King Of Prussia,4000.0,1300000000.0,Software & IT Services,18.0
+Strålfors,http://www.stralfors.se/,46103312525.0,customer.service@stralfors.se,Sweden,Ljungby,,,"Warehousing, Logistics & Support",18.0
+Cyklop Signode Packaging Corporation Thailand Co. Ltd.,,6626390382.0,,Thailand,Bang Rak,,,Containers & Packaging,18.0
+Andovar Pte Ltd.,https://andovar.com/,6531593958.0,info@andovar.com,Singapore,Singapore,380.0,30000000.0,Translation & Legal Documents,18.0
+Frederikssund Traktor- og Maskinservice,,4547383055.0,,Denmark,Frederikssund,,,Farm Equipment,18.0
+Advito,https://www.advito.com/,18888128725.0,privacy@bcdtravel.com,United States,Chicago,78.0,15000000.0,Travel Agencies,18.0
+Ericsson transport & logistikk AS,,4763879900.0,,Norway,Jessheim,,,Freight Transport,18.0
+Ciena,https://www.ciena.com/,18002073714.0,security@ciena.com,United States,Hanover,8657.0,4009999872.0,Telecommunication Services,18.0
+Brobizz,https://brobizz.com/,4570808081.0,truck@brobizz.com,Denmark,Copenhagen,75.0,14588839.0,Freight Transport,18.0
+3Degrees Inc.,http://3degreesinc.com/,18664769378.0,unsubscribe@3degreesinc.com,United States,San Francisco,,,Engineering Services,18.0
+Dubex Print & Copy,,97143335385.0,,United Arab Emirates,Dubai,,,Books Printing & Stores,18.0
+Ingram Micro Gulf,https://www.aptecme.com/,97143697111.0,,United Arab Emirates,Dubai,390.0,,,17.5
+Ordeno,https://www.ordeno.io/,4592909100.0,info@ordeno.io,Denmark,Odense,4.0,760766.0,Software & IT Services,17.5
+OK! Pakistan,https://okpakistan.com/,922135372515.0,web@okmagazine.com.pk,Pakistan,Karachi Division,75.0,388480.0,Newspapers & Magazines,17.5
+Syniverse,https://syniverseoman.com/,96899360663.0,info@syniverseoman.com,Oman,Al Ghubra,75.0,6606652.0,Business Consulting,17.5
+Nordic Broadcast,https://nordicbroadcast.no/,4769109005.0,post@nordicbroadcast.no,Norway,Sarpsborg,2.0,1660053.0,Art & Music Publishers,17.5
+Huber Suhner A/S.,,,,Denmark,Værløse,,,Electrical & Electronic Equipment,17.0
+Ole lumholtz ekspert i skimmel sanering,https://skimmelsvampsanering.dk/,4545111520.0,info@skimmelsvampsanering.dk,Denmark,Frederiksberg,15.0,2760637.0,Waste Disposal,17.0
+Bording Danmark,https://bording.dk/,4528184648.0,info@bording.dk,Denmark,Rødovre Municipality,140.0,31341760.0,Marketing & Advertising Agencies,17.0
+Beat Film,http://www.beatfilm.dk/,4522110777.0,stine@beatfilm.dk,Denmark,Copenhagen,,,Art & Music Publishers,17.0
+Jysk Auto ApS.,https://jyskauto.dk/,4524457957.0,info@jyskauto.dk,Denmark,Aarhus Municipality,30.0,18099732.0,Automobile Dealers & Manufacturers,17.0
+Ole Rasmussen,https://www.or-vognmand.dk/,4575693080.0,ole@or-vognmand.dk,Denmark,Hedensted Municipality,7.0,1492268.0,Freight Transport,17.0
+JLL,https://www.jll.co.uk/,442078706667.0,lee.daniels@jll.com,United Kingdom,Glasgow,116500.0,12965894144.0,Real Estate - Agents & Managers,17.0
+National Software Management,https://nationalsoftwaremanagement.com/,12039410259.0,sales@nationalsoftwaremanagement.com,United States,Emerson,75.0,18280364.0,Software & IT Services,17.0
+Batteriindsamling ERP Denmark ApS.,http://erp-recycling.dk/?opi=79508299&sa=U&ved=0ahUKEwjzgJOUh7GMAxWCKlkFHZLZL3QQ61gIEigP&usg=AOvVaw0PPZ0r6uBXnllr0sJE3Krs,4563330028.0,denmark@erp-recycling.org,Denmark,Nyborg,,,Engineering Services,17.0
+Direkte Frakt,https://direktefrakt.no/,4790101210.0,faktura@direktefrakt.no,Norway,Enebakk,75.0,23134226.0,Freight Transport,17.0
+Ping IT,https://pingit.com.au/,61390160606.0,,Australia,Melbourne,15.0,3177771.0,Software & IT Services,17.0
+ISS,http://www.au.issworld.com/,902122746350.0,malte.schaefer@iss.ch,Denmark,Søborg,378946.0,10049793024.0,Cleaning services,17.0
+Basta Horlurarna,https://bastahorlurarna.se/,4644127569.0,info@bastahorlurarna.se,Sweden,Kristianstad,15.0,3358679.0,Software & IT Services,16.5
+Vi I Villa,https://viivilla.no/,4797022772.0,anne-lene.drillestad@bonnier.no,Denmark,Copenhagen,15.0,2001927.0,Newspapers & Magazines,16.5
+Dantec Nordics,https://www.dantec-nordics.dk/,4573702530.0,info@dantec-nordics.dk,Denmark,Aabenraa Municipality,75.0,110845936.0,Consumer Electronics & Appliances,16.5
+ENREACH,https://www.enreach.com/en,31888890889.0,marketing.sp@enreach.com,Netherlands,Almere,700.0,200000000.0,Telecommunication Services,16.5
+Mediabrands,https://www.ipgmediabrands.com/,442070737333.0,growth@mbww.com,United Kingdom,London,13000.0,1969284096.0,Marketing & Advertising Agencies,16.5
+Bording Cognito AS,https://cognito.no/,4722627005.0,hei@cognito.no,Norway,Oslo,17.0,5513354.0,Marketing & Advertising Agencies,16.5
+TXO Systems,https://www.txo.com/,5543998040524.0,hello@txo.com,United Kingdom,Chepstow,160.0,66500000.0,Telecommunication Services,16.5
+HEXA-X Consortium,https://hexa-x.eu/,,mikko.uusitalo@nokia-bell-labs.com,Finland,Espoo,75.0,21639072.0,Telecommunication Services,16.0
+Kore Group,http://kore-group.com/,6568427068.0,,Singapore,,75.0,21199176.0,Software & IT Services,16.0
+Playable theatre,https://www.playabletheatre.org/,,,United States,Boston,15.0,3006.0,"Museums, Theaters & Venues",16.0
+24seven Research Network,https://24sevenresearchnetwork.com/,919971139111.0,info@24sevenresearchnetwork.com,India,Faridabad,75.0,518659.0,Marketing & Advertising Agencies,16.0
+PERODUA PANDAN PRIMA,https://www.peroduapandanprima.com/,60392004667.0,roselinda.abu@perodua.com.my,Malaysia,Kuala Lumpur,,,Automobile Dealers & Manufacturers,16.0
+CM Boost Studio,https://www.cmbooststudio.com/,60173233278.0,info@cmbooststudio.com,Malaysia,Subang Jaya,15.0,548715.0,Marketing & Advertising Agencies,16.0
+Cloudera,http://cloudera.com/,18887891488.0,edu_sales_support@cloudera.com,United States,Palo Alto,2728.0,1200000000.0,Software & IT Services,15.5
+Qlik,https://m88duwang31.com/,31237271915.0,privacy@qlik.com,United States,King Of Prussia,,,Software & IT Services,15.5
+Comba Telecom Inc.,https://combausa.com/,14085260180.0,privacy@combausa.com,United States,Milpitas,,,Telecommunication Services,15.5
+TATA COMMUNICATIONS DIGO,https://www.tatacommunications-ts.com/,6566348570.0,digo@tatacommunications.com,Singapore,,4700.0,126300000.0,Telecommunication Services,15.5
+TATA COMMUNICATIONS DIGO,https://www.tatacommunications-ts.com/,6566348570.0,digo@tatacommunications.com,Singapore,,4700.0,126300000.0,Telecommunication Services,15.5
+PAF SECURITISATION NO.,https://pafsecuritisationno1plc.com/,442038965052.0,info@pafsecuritisationno1plc.com,United Kingdom,London,75.0,49349144.0,Insurance,15.5
+Ninezero,https://ninezero.ai/,,support@ninezero.ai,Denmark,Aarhus,2.0,482269.0,Software & IT Services,15.5
+Vantage Technologies,https://vantechbd.com/,880255012033.0,ayman@vantechbd.com,Bangladesh,Dhaka Metropolitan,9.0,97643.0,General Contractors & Heavy Construction,15.5
+Oracle Clinic,https://www.oracleclinics.com/,918600101032.0,oracleclinics@gmail.com,India,Nagpur,,,Hospitals & Clinics,15.5
+Cushman & Wakefield Kft.,https://www.hun-industrial.hu/,3612681288.0,info@hun-industrial.hu,Hungary,Budapest,75.0,6957140.0,Real Estate - Agents & Managers,15.5
+Geo TV Network,http://geo.tv/,923028370448.0,shaheen.raza@geo.tv,Pakistan,Karachi Division,1900.0,3900000.0,Media Companies,15.5
+Google Cloud,https://swissrallvays.shop/,18778243983.0,bq-project-config-service@google.com,United States,Mountain View,,,Software & IT Services,15.5
+Yettel,https://www.yettel.rs/,381800301117.0,,Serbia,Belgrade,1848.0,545239424.0,Telecommunication Services,15.0
+Utel AS,https://utel.tech/,4741213184.0,fg@utel.tech,Norway,Grimstad,27.0,5100000.0,Telecommunication Services,15.0
+Oslo Relocation,http://www.oslorelocation.no/?opi=79508299&sa=U&ved=0ahUKEwjAkLffx7CMAxVAILkGHeW9B6AQ61gIEigP&usg=AOvVaw2wPfl5eyrL8vqUzq1B-Okh,4795024314.0,meilee.marshall@oslorelocation.no,Norway,Nesøya,,,Freight Transport,15.0
+Yettel Hungary,https://www.yettel.hu/,36707630000.0,cloudsupport@yettel.hu,Hungary,Törökbálint,1060.0,221659152.0,Telecommunication Services,15.0
+DdD Retail,https://dddretail.com/,4570223010.0,info@dddretail.com,Denmark,Køge,51.0,5000000.0,Banks & Financial Services,15.0
+Cibicom A/S.,https://cibicom.dk/,4570118011.0,sales@cibicom.dk,Denmark,Ballerup,150.0,36949128.0,Telecommunication Services,15.0
+Textilia,https://textilia.se/,4640140730.0,kundtjanst.ostersund@textilia.se,Sweden,Örebro,80.0,75000000.0,Cleaning services,15.0
+Cisco repair services,https://cisco-repair.co.uk/,441189707070.0,service@ens-group.co.uk,United Kingdom,Reading,,,"Rental, Repair & Maintenance",15.0
+FSAutomobiler,https://www.fsautomobiler.dk/,4586692213.0,fs.automobiler@mail.dk,Denmark,Viborg,,,Automobile Dealers & Manufacturers,15.0
+Software One Inc.,http://swone.com/,12485890555.0,,United States,Troy,75.0,14018800.0,Software & IT Services,15.0
+Software One Inc.,http://swone.com/,12485890555.0,,United States,Troy,75.0,14018800.0,Software & IT Services,15.0
+Sagemcom,https://sagemcom.com/fr,33157611000.0,froeschl.support@sagemcom.com,France,Bois-Colombes,,,Telecommunication Services,15.0
+RTL Telekids,https://www.rtl.nl/,31646338294.0,privacy@rtl.nl,Netherlands,Hilversum,1100.0,195880528.0,Media Companies,15.0
+NemTilmeld,https://www.nemtilmeld.dk/,4593207778.0,support@nemtilmeld.dk,Denmark,Nørresundby,10.0,3026908.0,Software & IT Services,15.0
+CBRE Luxembourg,https://www.cbre.lu/,3226433314.0,michael.taelman@cbre.com,Luxembourg,Luxembourg,84.0,55186864.0,Real Estate - Agents & Managers,15.0
+Zariot,https://www.zariot.com/,35316909000.0,connect@zariot.com,Ireland,Dublin,31.0,17235584.0,Telecommunication Services,15.0
+Satellite Crane & Skylift Services,,60177555666.0,,Malaysia,Kluang,,,Industrial Machinery,15.0
+IDEMIA,https://www.id06idemia.com/,468001700.0,,Sweden,Strängnäs Kommun,,,Banks & Financial Services,15.0
+Larsen Consult,https://larsenconsult.no/,4746461700.0,per@larsenconsult.no,Norway,Oslo,75.0,45509336.0,Telecommunication Services,15.0
+GatherContent,https://www.bynder.com/,447572452642.0,support@gathercontent.com,United Kingdom,London,7.0,10000000.0,Software & IT Services,15.0
+Workshop Bemanning,http://workshop.no/,4792401201.0,post@workshop.no,Norway,Oslo,96.0,8198120.0,HR Services,15.0
+Ikano Bank,https://ikanobank.dk/,4543556600.0,navn@ikano.dk,Denmark,Glostrup,14.0,3894770.0,Banks & Financial Services,15.0
+Watchdata,http://ww12.xunlehongbei.com/?usid=15&utid=26722604154,6565729300.0,marketing@shoplytermylf.com,Singapore,Singapore,200.0,27000000.0,Telecommunication Services,15.0
+High Touch Remodeling,https://hightouchremodeling.com/,13104742967.0,info@hightouchremodeling.com,United States,Los Angeles,6.0,1932906.0,General Contractors & Heavy Construction,15.0
+ADB,https://www.adbglobal.com/,41227990799.0,info@adbglobal.com,Switzerland,Pregny-Chambésy,350.0,450000000.0,Media Companies,14.0
+Telenor Expo,https://www.telenorexpo.no/,4781533111.0,,Norway,Bærum,,,Entertainment,14.0
+DK ROOF,https://dkroof.com/,4561440005.0,info@dkroof.com,Denmark,Nørresundby,105.0,25359748.0,Building Contractors,14.0
+Apple green TRUCK AIR FOR WHEELS,,,,Ireland,Fingal,,,Freight Transport,14.0
+Autent Solutions,https://autentsolutions.hu/,3614332786.0,info@autentsolutions.hu,Hungary,Budapest,8.0,426590.0,Finishing Contractors,14.0
+Apple green TRUCK AIR FOR WHEELS,,,,Ireland,Fingal,,,Freight Transport,14.0
+Trend Micro,https://www.trendmicro.com/de_de/business.html,97444528955.0,salesinfo_dach@trendmicro.com,Japan,Tokyo,7000.0,1706897792.0,Software & IT Services,14.0
+X-IT,https://x-it.io/,48793521424.0,info@x-it.io,France,Laffrey,,,Software & IT Services,14.0
+American Express,https://www.americanexpress.com/de-de/,496997973939.0,se.travel@amexgbt.com,United States,Manhattan,75100.0,65949999104.0,Banks & Financial Services,14.0
+Svalbard,https://svalbard.it/,39067024406.0,privacy@4winds.it,Norway,Longyearbyen,15.0,18208200.0,Passenger Transport Services,14.0
+Norwegian,https://www.norwegian.com/,4781511816.0,press@norwegian.com,Norway,Fornebu,1500.0,1931019776.0,Passenger Transport Services,14.0
+DHL Express Service Point - BAG IT DHL Partner,,,,Singapore,Singapore,,,"Warehousing, Logistics & Support",14.0
+Ingram Micro,https://dcposingram.com/,,gabriel.yanez@ingrammicro.com,,,,,Electrical & Electronic Equipment,14.0
+BBtec,https://bbtec.co.th/th,6620165444.0,info@benchachinda.co.th,Thailand,Chatuchak,150.0,7319145.0,Telecommunication Services,14.0
+BRA,https://flygbra.se/,46771440010.0,,Sweden,Stockholm,400.0,108016704.0,Passenger Transport Services,14.0
+Kerry Freight Pakistan PVT LTD.,,923099059117.0,,Pakistan,Karachi,,,Freight Transport,14.0
+HUM Rideshare,https://www.humrideshare.com/,18008357102.0,help@humrideshare.com,United States,Phoenix,75.0,11476102.0,Passenger Transport Services,14.0
+Gintel,https://gintel.ru/,,xmac@gintel.ru,Russia,,75.0,3240485.0,Architecture & Planning,14.0
+Jansson El,https://jansson.dk/,4575331082.0,el@jansson.dk,Denmark,Vejle,220.0,50200992.0,Entertainment,14.0
+iSEKK,https://www.isekk.no/no/,4722656100.0,post@isekk.no,Norway,Oslo,75.0,27833698.0,Waste Disposal,14.0
+Fælles Service Center Sekretariatet,https://www.faellesservicecenter.dk/,4578412388.0,fscsupport@atea.dk,Denmark,Horsens,6.0,441350.0,Social Services,14.0
+Modulex manufacturing,,,,Denmark,Billund,1.0,156240.0,Graphic Design,13.5
+Music Aggregation Services Finland Oy.,https://masf.fi/,,,Finland,Tampere,3.0,1344638.0,Art & Music Publishers,13.5
+ZariBunty,https://zaribunty.com/,,info@zaribunty.com,Pakistan,Lahore,8.0,44940.0,Newspapers & Magazines,13.5
+WI Industrial Display,https://wiind.org/index,4530302550.0,info@wiind.org,Denmark,Aarhus,1.0,88133.0,HR Services,13.5
+ProPakistani,https://propakistani.pk/,,hello@propakistani.pk,Pakistan,,57.0,3200000.0,Newspapers & Magazines,13.5
+Eastcompeace,https://www.eastcompeace.com/,,,China,Zhuhai,200.0,218800000.0,Banks & Financial Services,13.0
+Nokia sale,https://telecommobilesnews.wordpress.com/,,,,,1.0,,Telecommunication Services,13.0
+Mnemonic,https://mnemonic.pt/,,mnemonicartproject@gmail.com,Portugal,,2.0,146115.0,Architecture & Planning,13.0
+Gilfelt Revision,https://gilfeltrevision.dk/,4528108303.0,steen@gilfeltrevision.dk,Denmark,Hørsholm,1.0,141981.0,Accountants & Tax Services,13.0
+Nokia sale,https://telecommobilesnews.wordpress.com/,,,,,1.0,,Telecommunication Services,13.0
+Shahidul Islam Sarker,http://www.shahidulsarker.com/,8801534402012.0,info@shahidulsarker.com,Bangladesh,Dhaka,1.0,7505.0,Political Organizations,12.5
+Nexcom,https://www.nex.com.co/,573165298767.0,,Colombia,Bogota,20.0,,,12.5
+Iben Plesner,https://ibenplesner.dk/,4520484844.0,ibenplesner@gmail.com,Denmark,Copenhagen,1.0,154433.0,Art & Music Publishers,12.0
+Varsta s.r.o,http://www.varsta.cz/kontakt/,420776216311.0,varsta@varsta.cz,Czechia,Brno,,,General Contractors & Heavy Construction,12.0
+ECOMMERCE INSIDER,https://www.ecinsider.sg/,6593887981.0,rico@ecinsider.sg,Singapore,,1.0,246008.0,Business Consulting,12.0
+FITNESSHELP ANBEFALER,https://fitnesshelp.dk/,4540153063.0,info@fitnesshelp.dk,Denmark,Aarhus Municipality,4.0,804293.0,Sporting Goods,12.0
+PACO CASA a,https://pacocasa.co.th/,6621589068.0,info@pacocasa.co.th,Thailand,Bangkok,,,,11.5
+Pluralsight,http://tordkalvenes.com/,4790999835.0,ar@pluralsight.com,United States,Draper,,,Casino & Betting,11.0
+BB Connect GmbH,https://www.bbconnect-gmbh.de/,4915228382184.0,info@bbconnect-gmbh.de,Germany,Hünxe,,,Telecommunication Services,11.0
+CEE CRAYON,https://cyber-security-forum.com/,,daria.gotgelf@crayon.com,Norway,Oslo,,,Software & IT Services,10.0
+Ericsson AS,https://epignosis.no/,,,Norway,Oslo,,,Architecture & Planning,10.0
+Dell Elevator,,6625406669.0,,Thailand,Min Buri,,,Finishing Contractors,9.0
+Stena Recycling AB.,,46104455770.0,,Sweden,Jönköping,,,Waste Disposal,9.0
+ZTE Corporation,https://agendadigitalsre.space/,525552073422.0,soporte@zte.com.cn,Mexico,,,,"Rental, Repair & Maintenance",9.0
